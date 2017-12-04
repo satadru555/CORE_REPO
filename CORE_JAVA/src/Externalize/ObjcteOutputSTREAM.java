@@ -25,7 +25,7 @@ public class ObjcteOutputSTREAM {
 			e.setAge(26);
 			
 			
-			obj.writeObject(e);
+			 obj.writeObject(e);
 			
 		}catch(Exception e){
 			System.out.println("Exception is "+e);
