@@ -27,11 +27,6 @@ public class ObjcteOutputSTREAM {
 			
 			obj.writeObject(e);
 			
-			
-			
-			
-			
-			
 		}catch(Exception e){
 			System.out.println("Exception is "+e);
 			
